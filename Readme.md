@@ -57,12 +57,13 @@ This is a custom-designed ESP32-S3-based Arduino UNO-style development board wit
 
 ---
 ## 🧩 **PCB Gerber File**
-👉 [Gerber_With_ColorShilkscreen.zip`](Gerber/Gerber_With_ColorShilkscreen.zip)
 
+👉 [`Gerber_With_ColorShilkscreen.zip`](Gerber/Gerber_With_ColorShilkscreen.zip)
+---
 👉 [`Gerber_without_colorshilkscreen.zip`](Gerber/Gerber_without_colorshilkscreen.zip)
 ---
 👉 [`Schematic PDF`](Schematic/ESP32-UNO_Schematic.pdf)
-
+---
 ## 🔧 **How to Program**
 
 1. Plug in via **USB Type-C**
