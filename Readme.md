@@ -6,6 +6,9 @@
 ## 🖼️ Demo 2D Model
 ![PCB Demo 32](Image/2d.png)
 
+## 🖼️ Schematic
+![PCB Schematic](Image/Schematic.png)
+
 
 This is a custom-designed ESP32-S3-based Arduino UNO-style development board with colorful silkscreen pin labels and USB Type-C support. It supports ESP-IDF, Arduino, and MicroPython platforms.
 
