@@ -88,12 +88,9 @@ void loop() {
 | User Labels    | 🟪 Purple       | ⚪ White    | `Power`, `User`     |
 ---
 
-## 📁 **Folder Structure**
 
 
-```
 
----
 
 ## 🙏 Special Thanks
 
@@ -113,6 +110,6 @@ Their platforms made this project possible and easy to share with the maker comm
 
 Open Source Hardware — OSHWA Certified
 
----
+
 
 Happy Making! 💡
