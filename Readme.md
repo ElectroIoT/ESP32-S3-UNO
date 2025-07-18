@@ -56,6 +56,12 @@ This is a custom-designed ESP32-S3-based Arduino UNO-style development board wit
 | 22 | C455280   | TS-1088R-02026        | Tactile Button        | 10  | [Link](https://lcsc.com/product-detail/tactile-switches_xunpu-ts-1088r-02026_C455280.html)                                               |
 
 ---
+## 🧩 **PCB Gerber File**
+👉 [Gerber_With_ColorShilkscreen.zip`](Gerber/Gerber_With_ColorShilkscreen.zip)
+
+👉 [`Gerber_without_colorshilkscreen.zip`](Gerber/Gerber_without_colorshilkscreen.zip)
+---
+👉 [`Schematic PDF`](Schematic/ESP32-UNO_Schematic.pdf)
 
 ## 🔧 **How to Program**
 
